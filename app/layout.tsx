@@ -7,6 +7,8 @@ import type {
 Metadata
 } from "next"
 
+import SWRegistration from "./SWRegistration"
+
 export const metadata:Metadata={
 
 title:"Zona XP",
