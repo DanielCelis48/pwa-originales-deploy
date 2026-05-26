@@ -22,9 +22,6 @@ icons:{
 
 icon:"/icon-192.png",
 
-apple:
-"/apple-touch-icon.png"
-
 },
 
 themeColor:"#4f46e5"
